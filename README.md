@@ -1,6 +1,6 @@
 # Python | Template
 
-<p align="center"><a href="https://github.com/CodeHunter00/weather/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/weather?display_name=tag&label=Release"></a>
+<p align="center"><a href="https://github.com/CodeHunter00/weather/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/weather"></a>
   <a href="https://github.com/CodeHunter00/weather"><img src="https://img.shields.io/github/license/CodeHunter00/weather?color=critical&label=License"></a>
 </p>
 
